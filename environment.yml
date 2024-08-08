@@ -1,0 +1,16 @@
+name: project_u_net
+channels:
+  - conda-forge
+  - defaults
+  - pytorch
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - SimpleITK
+  - scipy
+  - yacs
+  - tqdm
+  - scikit-learn
+  - batchgenerators
+  - pytorch
