@@ -74,4 +74,4 @@ to get the segmentation.
 
 ### Appendix
 
-There is no use of auto-generation tools in the coursework.
+There is no use of auto-generation tools.
